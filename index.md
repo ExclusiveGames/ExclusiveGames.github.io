@@ -5,6 +5,8 @@
 
 ![alt text](ava_umka.png "✔CaseofGold✔")
 
+![image](ava_umka.png = 250x250)
+
 [✔Gem Digger✔](#я-ссылка "https://play.google.com/store/apps/details?id=com.digger")
 
 ![alt text](ikon.png "✔Gem Digger✔")
