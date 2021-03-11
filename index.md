@@ -3,7 +3,7 @@
 
 [✔CaseofGold✔](#я-ссылка "https://play.google.com/store/apps/details?id=com.clickmoney")
 
-![alt text](ava_umka.png = 250x250"✔CaseofGold✔")
+![alt text](ava_umka.png = 250x250")
 
 [✔Gem Digger✔](#я-ссылка "https://play.google.com/store/apps/details?id=com.digger")
 
