@@ -2,7 +2,6 @@
 Сайт с моими лучшими приложениями и играми на Android
 # ✔CaseofGold✔
 ![alt text](ava_umka.png "✔CaseofGold✔")
-[текст](#я-ссылка "https://play.google.com/store/apps/details?id=com.digger")
-[✔Gem Digger✔]:https://play.google.com/store/apps/details?id=com.digger
+[✔Gem Digger✔](#я-ссылка "https://play.google.com/store/apps/details?id=com.digger")
 ![alt text](ikon.png "✔Gem Digger✔")
 
