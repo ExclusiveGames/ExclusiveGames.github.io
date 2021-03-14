@@ -16,6 +16,8 @@
 <h3 align="center"><a href="https://play.google.com/store/apps/details?id=com.clickmoney" >✔CaseofGold✔</a></h3>
 
 <p align="center"><img src="ava_umka.png"  width="400" height="400" alt="pic"></p>
+
+<p align="center"><Для связи:<a href="https://play.google.com/store/apps/details?id=com.clickmoney" >></p>
 </body>
 
 
