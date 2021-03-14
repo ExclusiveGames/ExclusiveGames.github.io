@@ -16,7 +16,7 @@ text-align: center; /* Выравнивания картинки по центр
 
 <p align="center"><a href="https://exclusivegames.github.io/Privacy" >Политика Конфидициальности</a></p>
 
- <p class="pic"><img src="ikon.png"  width="250" height="150" alt="pic"></p>
+ <p class="pic"><img src="ikon.png"  width="250" height="250" alt="pic"></p>
  ![alt text](ikon.png "✔Gem Digger✔")
 
 <h3 align="center"><a href="https://play.google.com/store/apps/details?id=com.clickmoney" >✔CaseofGold✔</a></h3>
