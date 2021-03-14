@@ -17,7 +17,7 @@
 
 <p align="center"><img src="ava_umka.png"  width="400" height="400" alt="pic"></p>
 
-<p align="center">Напиши нам: <a href="gmailto:tumaninvlad5@gmail.com" >tumaninvlad5@gmail.com</a></p>
+<p align="center">Напиши нам: <a href="tumaninvlad5@gmail.com" >tumaninvlad5@gmail.com</a></p>
 </body>
 
 
