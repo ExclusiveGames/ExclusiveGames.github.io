@@ -17,7 +17,7 @@
 
 <p align="center"><img src="ava_umka.png"  width="400" height="400" alt="pic"></p>
 
-<p align="center"><Для связи:<a href="https://play.google.com/store/apps/details?id=com.clickmoney" >></p>
+<p align="center"><Для связи:<a href="https://play.google.com/store/apps/details?id=com.clickmoney" >tumaninvlad5@gmail.com</a>></p>
 </body>
 
 
