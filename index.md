@@ -1,7 +1,7 @@
 ## Добро пожаловать на домашнюю страницу ExcluzivGames
 Сайт с моими лучшими приложениями и играми на Android
 
- [✔Gem Digger✔](#я-ссылка "https://play.google.com/store/apps/details?id=com.digger")
+ [✔Gem Digger✔](#Я-ссылка "https://play.google.com/store/apps/details?id=com.digger")
  
  Возьмите свои профессиональные добывающие инструменты и отправляйтесь в эксклюзивное копательное приключение!
 2D-симулятор добычи предлагает различные виды  драгоценных руд и обычных ресурсов. Красивая графика и увлекательные достижения и испытнаия. Присоединяйтесь к нашему добывающему сообществу и скорее добудьте самые ценные трофеи. Следите за своим уровнем среди всех лидеров и стань первым копателем мира.
@@ -12,7 +12,7 @@
  
  ![alt text](ikon.png "✔Gem Digger✔")
 
-[✔CaseofGold✔](#я-ссылка"https://play.google.com/store/apps/details?id=com.clickmoney") 
+[✔CaseofGold✔](#Я-ссылка"https://play.google.com/store/apps/details?id=com.clickmoney") 
 
 ![alt text](ava_umka.png)
 
