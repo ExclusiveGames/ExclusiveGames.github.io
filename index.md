@@ -1,6 +1,4 @@
 <head>
-<style>
-</style>
 </head>
 <body>
 <h1 align="center">Добро пожаловать на домашнюю страницу ExclusiveGames</h1>
@@ -17,7 +15,7 @@
 
 <h3 align="center"><a href="https://play.google.com/store/apps/details?id=com.clickmoney" >✔CaseofGold✔</a></h3>
 
-![alt text](ava_umka.png)
+<p align="center"><img src="ava_umka.png"  width="400" height="400" alt="pic"></p>
 </body>
 
 
