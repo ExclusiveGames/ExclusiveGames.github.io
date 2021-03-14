@@ -1,4 +1,4 @@
-<h1 align="center">## Добро пожаловать на домашнюю страницу ExcluzivGames</h1>
+<h1 align="center">Добро пожаловать на домашнюю страницу ExclusiveGames</h1>
 <h2 align="center">Сайт с моими лучшими приложениями и играми на Android</h2>
 
  <h3 align="center"><a href="https://play.google.com/store/apps/details?id=com.digger" >✔Gem Digger✔</a></h3>
@@ -9,7 +9,7 @@
 <p align="center"><a href="https://exclusivegames.github.io/Privacy" >Политика Конфидициальности</a></p>
 
  
- ![alt text](ikon.png "✔Gem Digger✔")
+ <p align="center">![alt text](ikon.png "✔Gem Digger✔")</p>
 
 <h3 align="center"><a href="https://play.google.com/store/apps/details?id=com.clickmoney" >✔CaseofGold✔</a></h3>
 
