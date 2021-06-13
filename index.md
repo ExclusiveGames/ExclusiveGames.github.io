@@ -1,4 +1,7 @@
 <head>
+ <title>
+  <p>Андроид-приложения</p>
+ </title>
 </head>
 <body>
 <h1 align="center">Добро пожаловать на домашнюю страницу ExclusiveGames</h1>
