@@ -1,5 +1,5 @@
 <head>
- <title>Андроид-приложения</title>
+ <title>Тренажёры — HTML Academy</title>
 </head>
 <body>
 <h1 align="center">Добро пожаловать на домашнюю страницу ExclusiveGames</h1>
